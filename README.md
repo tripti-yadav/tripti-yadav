@@ -5,7 +5,7 @@
 
 - 🐈‍⬛ I’m currently doing my Bachelors in Technology in Computer Science Engineering with AI.
 
-- 🦖 Focusing on Data Structures and Algorithms and Web Development.
+- 🦖 Focusing on **Data Structures and Algorithms** and Web Development.
 
 - 🐱 Fun fact **I love learning new things. I like to research and build stuff.**
 
