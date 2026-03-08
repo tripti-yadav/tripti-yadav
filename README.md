@@ -7,7 +7,7 @@
 
 - 🦖 Focusing on **Data Structures and Algorithms** and Web Development.
 
-- 🐱 Fun fact **I love learning new things. I like to research and build stuff.**
+- 🐱 Fun fact: **I love learning new things. I like to research and build stuff.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
