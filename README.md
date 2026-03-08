@@ -3,7 +3,7 @@
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=tripti-yadav&label=Profile%20views&color=0e75b6&style=flat" alt="tripti-yadav" /> </p>-->
 
 
-- 🐈‍⬛ I’m currently doing my Bachelors in Technology in Computer Science Engineering with AI.
+- 🐈‍⬛ I’m currently doing my **Bachelors in Technology** in **Computer Science Engineering with AI**.
 
 - 🦖 Focusing on **Data Structures and Algorithms** and Web Development.
 
