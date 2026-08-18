@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Tripti Yadav!</h1>
+<h1 align="center">Hi , I'm Tripti!</h1>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=tripti-yadav&label=Profile%20views&color=0e75b6&style=flat" alt="tripti-yadav" /> </p>-->
 
@@ -25,11 +25,12 @@
 
 <h3>
   Lets Connect  
-  <img src="https://private-user-images.githubusercontent.com/140933637/286356176-b4a33235-8a44-475c-a18e-9bf2cb0c9f7b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODcwNTYwOTksIm5iZiI6MTc4NzA1NTc5OSwicGF0aCI6Ii8xNDA5MzM2MzcvMjg2MzU2MTc2LWI0YTMzMjM1LThhNDQtNDc1Yy1hMThlLTliZjJjYjBjOWY3Yi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwODE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgxOFQxMjIzMTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mOTFkMDE2ZDMwOTg0MzQyOTgzN2RmYWM4ZWMzMmExOTZiODAwNDY5NjdmYzg0YmRhZDg3NGQ1NjQxNDA0ZDVhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZnaWYifQ.tP1jOhjxrTMEDDvvNr1nDDq6TT2LIZsAjHpN4QIY0PI" width="40px" height="40px"/>
-  <img src="https://github.com/tripti-yadav/>
+  <img src="https://private-user-images.githubusercontent.com/140933637/286356176-b4a33235-8a44-475c-a18e-9bf2cb0c9f7b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODcwNTYwOTksIm5iZiI6MTc4NzA1NTc5OSwicGF0aCI6Ii8xNDA5MzM2MzcvMjg2MzU2MTc2LWI0YTMzMjM1LThhNDQtNDc1Yy1hMThlLTliZjJjYjBjOWY3Yi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwODE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgxOFQxMjIzMTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mOTFkMDE2ZDMwOTg0MzQyOTgzN2RmYWM4ZWMzMmExOTZiODAwNDY5NjdmYzg0YmRhZDg3NGQ1NjQxNDA0ZDVhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZnaWYifQ.tP1jOhjxrTMEDDvvNr1nDDq6TT2LIZsAjHpN4QIY0PI" width="70px" height="70px"/>
+  
 </h3>
 
 <p align="left">
+  
   <a href="https://www.linkedin.com/in/tripti-yadav-in/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
