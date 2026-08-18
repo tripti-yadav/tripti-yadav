@@ -25,7 +25,8 @@
 
 <h3>
   Lets Connect  
-  <img src="https://github.com/tripti-yadav/" width="40px" height="40px"/>
+  <img src="https://private-user-images.githubusercontent.com/140933637/286356176-b4a33235-8a44-475c-a18e-9bf2cb0c9f7b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODcwNTYwOTksIm5iZiI6MTc4NzA1NTc5OSwicGF0aCI6Ii8xNDA5MzM2MzcvMjg2MzU2MTc2LWI0YTMzMjM1LThhNDQtNDc1Yy1hMThlLTliZjJjYjBjOWY3Yi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwODE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgxOFQxMjIzMTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mOTFkMDE2ZDMwOTg0MzQyOTgzN2RmYWM4ZWMzMmExOTZiODAwNDY5NjdmYzg0YmRhZDg3NGQ1NjQxNDA0ZDVhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZnaWYifQ.tP1jOhjxrTMEDDvvNr1nDDq6TT2LIZsAjHpN4QIY0PI" width="40px" height="40px"/>
+  <img src="https://github.com/tripti-yadav/>
 </h3>
 
 <p align="left">
@@ -46,7 +47,5 @@
 </p>
 <img align="right" src="./assets/cutecat.gif" alt="cutecat" height="300" width="300"/>
 <img align="left" src="./assets/robot.gif" alt="robot" height="300" width="300"/>
-<!-- GHOSTLY TERMINAL ANIMATION PROFILE -->
-<div align="left" style='backgroundColor:black'>
-  <img src="https://x2fwbhwcpl.ufs.sh/f/B0R8RonUsFJWCUhMWh7kDpioaJOcEltmNV98BbCu34IA1nwU" width="auto" height="300px"/>
-</div>
+
+
